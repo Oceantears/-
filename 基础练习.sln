@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "基础练习", "基础练习\基础练习.csproj", "{3DEDBC1A-474C-428E-AC46-FA23AD351E98}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "计算器", "计算器\计算器.csproj", "{BCA7BB34-7F35-4F10-B5A5-48BD29FC67BF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{3DEDBC1A-474C-428E-AC46-FA23AD351E98}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3DEDBC1A-474C-428E-AC46-FA23AD351E98}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3DEDBC1A-474C-428E-AC46-FA23AD351E98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCA7BB34-7F35-4F10-B5A5-48BD29FC67BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCA7BB34-7F35-4F10-B5A5-48BD29FC67BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCA7BB34-7F35-4F10-B5A5-48BD29FC67BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCA7BB34-7F35-4F10-B5A5-48BD29FC67BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
