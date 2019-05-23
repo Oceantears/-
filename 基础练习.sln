@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "基础练习", "基础练�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "计算器", "计算器\计算器.csproj", "{BCA7BB34-7F35-4F10-B5A5-48BD29FC67BF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "读取写入文件", "读取写入文件\读取写入文件.csproj", "{37914FF2-0486-44EC-A2E3-D37DAD432771}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "拓展的冒泡排序", "拓展的冒泡排序\拓展的冒泡排序.csproj", "{85F1C236-3BFD-4FC0-8DC3-EF6D2233D51A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{BCA7BB34-7F35-4F10-B5A5-48BD29FC67BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCA7BB34-7F35-4F10-B5A5-48BD29FC67BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BCA7BB34-7F35-4F10-B5A5-48BD29FC67BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37914FF2-0486-44EC-A2E3-D37DAD432771}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37914FF2-0486-44EC-A2E3-D37DAD432771}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37914FF2-0486-44EC-A2E3-D37DAD432771}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37914FF2-0486-44EC-A2E3-D37DAD432771}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85F1C236-3BFD-4FC0-8DC3-EF6D2233D51A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85F1C236-3BFD-4FC0-8DC3-EF6D2233D51A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85F1C236-3BFD-4FC0-8DC3-EF6D2233D51A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85F1C236-3BFD-4FC0-8DC3-EF6D2233D51A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

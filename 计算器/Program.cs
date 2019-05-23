@@ -18,5 +18,6 @@ namespace 计算器
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
         }
+
     }
 }
